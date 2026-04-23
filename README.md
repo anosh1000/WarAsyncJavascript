@@ -1,7 +1,6 @@
 <pre>
 Simple War Card Game using APIs and Async Javascript
   
-[Demo here](https://war-async.netlify.app/)
   
 Topics Covered
   Callbacks - functions as first-class objects, built own .filter()
@@ -9,5 +8,6 @@ Topics Covered
   .then() chaining
   Deck of Cards API
 </pre>
+[Demo here](https://war-async.netlify.app/)
 
 
